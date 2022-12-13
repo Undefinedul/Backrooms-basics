@@ -1,0 +1,28 @@
+body	{
+	font-family:			arial;
+	margin-left:			17%; 
+	margin-right:			17%;  
+	background-image:		url("Images/backrooms.png");	
+	background-repeat:		no-repeat;
+	background-size:		cover;
+	}
+p	{
+	font-size: 18px;
+	}
+h1	{
+	color:				#ffffff;
+	font-size:			40px;	
+	}
+
+a	{
+	color:				#ffffff;
+	}
+table, th, td {
+	
+	background-color:		#f2e8c2;
+  	border: 			1px solid black;
+	}
+th, td	{
+	padding: 			22px;
+	}
+
